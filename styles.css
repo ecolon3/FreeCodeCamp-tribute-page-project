@@ -1,0 +1,95 @@
+* {
+    font-family: Roboto, sans-serif;
+    color: #490049;
+  }
+  hr {
+    color: #490049;
+    border: 2px solid #490049;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  body {
+    background: #ffbdff;
+    text-align: center;
+  }
+  h1 {
+    text-align: center;
+    font-family: Bangers;
+    font-size: 35px;
+  }
+  em {
+    font-size: 90px;
+    font-family: Bangers;
+    font-style: normal;
+  }
+  h3 {
+    font-family: Bangers;
+    font-size: 45px;
+    padding: none;
+    margin: none;
+    line-height: 0px;
+  }
+  #img-div {
+    background-color: #ffdaff;
+    padding: 20px;
+    border-radius: 4px;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  #image {
+    max-width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: block;
+  }
+  #img-caption {
+    margin-bottom: 0px;
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  #intro-para {
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-style: bold;
+    font-size: 25px;
+  }
+  #tribute-info {
+    background-color: #ffdaff;
+    border-radius: 4px;
+    margin-left: 12%;
+    margin-right: 12%;
+    padding: 5px 0px 20px 0px;
+    font-size: 20px;
+  }
+  ul {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: left;
+  }
+  ul li { 
+      padding: 8px 0px; 
+    }
+  #tia-quote {
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-style: italic;
+    text-align: left;
+    padding-top: 5px;
+  }
+  #conclusion {
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 25px;
+  }
+  span {
+    font-family: Bangers;
+    font-size: 35px;
+  }
+  #tribute-link {
+      color: #2608d4;
+  }
